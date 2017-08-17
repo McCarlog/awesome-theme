@@ -1,7 +1,9 @@
 # My Awesome RC
 
 **Revised from  Powerarrow of [awesome-copycats](https://github.com/copycat-killer/awesome-copycats).**
+
 **For Awesome WM 4.x**
+
 **[BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
 
 ## Dependence
