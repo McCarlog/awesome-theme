@@ -6,12 +6,12 @@
 
 ## Dependence
 ---
-###Transparent
+### Transparent
 Real transparent need compton.
 Add the following codes to .xinitrc.
 `compton -cGbf`
 
-###Font
+### Font
 The font of task bar is [Capture it](http://www.dafont.com/capture-it.font).
 
 ## Preview
