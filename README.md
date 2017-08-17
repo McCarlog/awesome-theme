@@ -9,8 +9,8 @@
 ## Dependence
 
 ### Transparent
-Real transparent need compton.
-Add the following codes to .xinitrc.
+Real transparent need compton.  
+Add the following codes to .xinitrc.  
 `compton -cGbf`
 
 ### Font
