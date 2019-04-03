@@ -15,7 +15,3 @@ Add the following codes to .xinitrc.
 
 ### Font
 The font of task bar is [Capture it](http://www.dafont.com/capture-it.font).
-
-## Preview
-
-![](http://blog.mccarlog.com/wp-content/uploads/2017/08/awesome-fullscreen.jpg)
